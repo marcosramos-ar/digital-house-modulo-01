@@ -1,0 +1,10 @@
+ls: es igual a dir (lista el directorio)
+mkdir: crear una carpeta
+rmdir: borra una carpeta que no tiene nada adentro
+rm -r: borra la carpeta con archivos adentro
+touch: genera un archivo
+cat "nombre de archivo": muestra el contenido del archivo
+vim "nombre de archivo": sirve para editar un archivos
+dentro de vim:
+"o" para editar
+"esc" para salir

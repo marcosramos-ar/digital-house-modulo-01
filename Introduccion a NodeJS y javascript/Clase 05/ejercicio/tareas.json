@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "1er Tarea del día",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "2da Tarea del dia",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "3er Tarea del dia",
+        "estado": "pendiente"
+    }
+]
